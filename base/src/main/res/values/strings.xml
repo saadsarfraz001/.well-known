@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Saad\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">M Saad Sarfraz</string>
+    <string name="resume_title">Student | BS Computer Science</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">saadsarfraz001@gmail.com</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Experience</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923244356689</string>
+    <string name="Linkedin_IdLink">https://www.linkedin.com/in/saad-sarfraz-89a428192//</string>
+    <string name="Linkedin_UserName">saadsarfraz001</string>
+    <string name="Github_UserName">saadsarfraz001</string>
+    <string name="Github_IdLink">https://github.com/saadsarfraz001</string>
+    <string name="ieee_link">https://ieeexplore.ieee.org/document/7840114</string>
+    <string name="StackOverFlow_UserName">saadsarfraz001</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/11979372/saad-sarfraz</string>
+    <string name="education">Education</string>
+    <string name="answer">On a professional level I possess a dynamic work ethic, along with an ability to think outside the box and pick up new skills quickly.
+        I think commercially at all times, embrace positive change and am transparent and open with others.
+    </string>
+    <string name="answer1"> I possess the Quality of leader ship which is necessary to excel in any field as the whole responsibility of team’s career lies on the leader. So, I consider myself to be a confident individual who can quickly become part of an existing team of profession programmers in order to learn as well as to deliver my best part to the organization.
+    </string>
+    <string name="experience_title">Teacher</string>
+    <string name="experience_description">"9th, 10th, 11th, 12th class "</string>
+    <string name="why_i_did_choose_work_1">"Because i want to interact with people and share knowledge with them"
+
+    </string>
+
+    <string name="year11">(year)</string>
+    <string name="experience_title1">Visiting Faculty</string>
+    <string name="experience_description1">\u2713 Course: Software for Mobile Devices \n\u2713 Course: Advanced Programming\n\u2713 Total Students: 216</string>
+    <string name="experience_year1">(year)</string>
+    <string name="experience_title2">Teacher</string>
+    <string name="experience_description2">9th, 10th, 11th, 12th class</string>
+    <string name="experience_year2">Aug 2012 – Jan 2014</string>
+    <string name="skill_title_6">Android</string>
+    <string name="project_title">Monopoly Game</string>
+    <string name="project_description">Developed Monopoly game in C++ with advance graphics and functionalities</string>
+    <string name="year">(2017)</string>
+    <string name="project_title1">Snake Game</string>
+    <string name="project_description1">"\u2713 Developed Snake game with extended levels in Assembly Language. </string>
+    <string name="year1">(2018)</string>
+    <string name="project_title3">Candy Crush Game</string>
+    <string name="project_description3">"Developed Candy Crush Game with extended features in C++ Language. </string>
+    <string name="year3">(2019)</string>
+    <string name="project_title2">Smart Restaurant App </string>
+    <string name="project_description2">\u2713 Smart way to manage your Restaurant</string>
+    <string name="year2">(2019)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">Metric</string>
+    <string name="school_name">Central Model school</string>
+    <string name="intermediate_title">Intermediate in Computer Science (ICS)</string>
+    <string name="college_title">Punjab College of Information Technology</string>
+    <string name="graduation_title">Bachelors of Science in CS </string>
+    <string name="university_title">National University College of Computer and Emerging Sciences</string>
+    <string name="degree_title1">IEEE</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="college_year">(2015 – 2017)</string>
+    <string name="university_year">(2017 – present)</string>
+    <string name="Cgpa">3.53</string>
+    <string name="subject">Matriculation</string>
+    <string name="school">New CANTT public School System</string>
+    <string name="school_year">(2003-2015)</string>
+    <string name="grades">(grades)</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">C++</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">Web Development</string>
+    <string name="skill_title_4">Javascript</string>
+    <string name="skill_title_5">HTML</string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_0">Why above:</string>
+    <string name="why_i_did_choose_above_title_1">Why did I choose to teach:</string>
+    <string name="why_i_did_choose_work_2">"\u2713" Teaching does not finish when we give our students the information, it can be acquired from many sources, but the ability to think, reason and criticize can only be incorporated if we foster and encourage them through thick and thin.</string>
+    <string name="why_i_did_choose_work_3">Because i want to interact with people and share knowledge with them </string>
+    <string name="company_name1">Perfect Academy</string>
+    <string name="experience_time1">June 2017 - November 2017 </string>
+    <string name="worked_on_title">Taught:</string>
+    <string name="company_name2">National University College of Computer and Emerging Sciences</string>
+    <string name="experience_time2">August 2018 - December 2019 (~1.5 years)</string>
+    <string name="worked_on2">Worked On:</string>
+    <string name="company_name3">Stars Academy</string>
+    <string name="experience_time3">December 2017 - March 2018</string>
+    <string name="worked_on3">Taught:</string>
+
+
+</resources>
