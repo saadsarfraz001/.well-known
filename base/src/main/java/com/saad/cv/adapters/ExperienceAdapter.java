@@ -13,6 +13,7 @@ import com.saad.cv.base.R;
 
 public class ExperienceAdapter extends RecyclerView.Adapter<ExperienceAdapter.ExperienceViewHolder>{
     String [] list;
+
     public ExperienceAdapter(String [] str) {
         this.list = str;
     }
@@ -28,6 +29,7 @@ public class ExperienceAdapter extends RecyclerView.Adapter<ExperienceAdapter.Ex
     public void onBindViewHolder(@NonNull ExperienceViewHolder holder, int position) {
         String str=list[position];
         holder.text.setText(str);
+        holder.img.setImageResource(R.drawable.exp);
     }
 
     @Override

@@ -14,7 +14,7 @@ import com.saad.cv.adapters.ExperienceAdapter;
 import com.saad.cv.base.R;
 
 public class ExperienceFragment extends Fragment {
-    String [] str={"Teacher\nInstitute:\nPerfect Academy\nTaught:\n9th, 10th, 11th, 12th"
+    String [] str={"Teacher\nInstitute:\nPerfect Academy\nTaught:\n9th, 10th, 11th, 12th\n\n"
             ,"Teacher\nInstitute:\nStars Academy\nTaught:\n9th, 10th, 11th, 12th"};
     public ExperienceFragment() {
         // Required empty public constructor

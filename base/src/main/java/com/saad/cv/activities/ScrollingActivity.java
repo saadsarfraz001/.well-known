@@ -110,7 +110,7 @@ public class ScrollingActivity extends AppCompatActivity {
             Intent i=new Intent(android.content.Intent.ACTION_SEND);
             i.setType("text/plain");
             i.putExtra(android.content.Intent.EXTRA_SUBJECT,"Click the following link");
-            i.putExtra(android.content.Intent.EXTRA_TEXT, "https://www.visualcv.com/app/#/cvs/5136129");
+            i.putExtra(android.content.Intent.EXTRA_TEXT, "https://www.visualcv.com");
             startActivity(Intent.createChooser(i,"Share via"));
             return true;
         }
